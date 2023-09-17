@@ -26,7 +26,7 @@
 
 ---
  
-## feline-classifier-efficientNet-model
+## vegetable-classifier-efficientNet-model
 
 - **Model Structure:** EfficientNet_B0
 - **Classes:** ['Bean', 'Bitter_Gourd', 'Bottle_Gourd', 'Brinjal', 'Broccoli', 'Cabbage', 'Capsicum', 'Carrot', 'Cauliflower', 'Cucumber', 'Papaya', 'Potato', 'Pumpkin', 'Radish', 'Tomato']
