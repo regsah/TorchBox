@@ -23,3 +23,17 @@
   - Train Accuracy: 0.9690
   - Test Loss: 0.1620
   - Test Accuracy: 0.9427
+
+---
+ 
+## feline-classifier-efficientNet-model
+
+- **Model Structure:** EfficientNet_B0
+- **Classes:** ['Bean', 'Bitter_Gourd', 'Bottle_Gourd', 'Brinjal', 'Broccoli', 'Cabbage', 'Capsicum', 'Carrot', 'Cauliflower', 'Cucumber', 'Papaya', 'Potato', 'Pumpkin', 'Radish', 'Tomato']
+- **Training Dataset Length:** 15000 images
+- **Testing Dataset Length:** 3000 images
+- **Results in the Last Epoch:**
+  - Train Loss: 0.0321 
+  - Train Accuracy: 0.9962 
+  - Test Loss: 0.0153
+  - Test Accuracy: 0.9987
